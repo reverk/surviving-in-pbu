@@ -7,6 +7,10 @@
 
   - ["I got accepted! Now what?"](/docs/newbie.md)
 
+- Extras
+
+  - [Student Pack](/docs/student-pack.md)
+
 - General Stuffs
 
   - [General Advices](/docs/advices-general.md)
@@ -14,6 +18,7 @@
   - [Hostel](/docs/hostel.md)
   - [Softwares](/docs/softwares.md)
   - [Attendance](/docs/attendance.md)
+  - [Fines](/docs/fines.md)
 
 - Subjects
 

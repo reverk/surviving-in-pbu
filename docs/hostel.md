@@ -68,7 +68,7 @@ Hostels has a defined time for you to go outside.
 
 ?> On Friday, it might end 10:00 pm as well.
 
-On 10:00 pm, guards will confiscate your Student Card. If you want it back, you'll have to pay a fine (RM 50 for the first time) to the warden.
+On 10:00 pm, guards will confiscate your Student Card. If you want it back, you'll have to pay a fine (RM 50 for the first time, [more info here](/docs/fines)) to the warden.
 
 !> Losing Student Card would also mean that you cannot attend classes.
 
@@ -134,3 +134,5 @@ It will usually occur 0 to 1 times per semester and happens usually 10 pm onward
 Spot checks are times when they do random checks on your room to see if you're bringing stuffs you should not bring.
 
 This occurs 0 to 1 times per semester and usually 10 pm onwards as well.
+
+?> Roll Calls and Spot Checks are always random, so there's no accurate answers. <br><br> Even if there is, that totally ruins the surprise factor, isn't it?

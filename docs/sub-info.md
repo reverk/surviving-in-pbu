@@ -26,7 +26,7 @@ All subjects require you to attend classes at least 80% of the time. They also c
 
 If you happen to be sick, provide a MC to let lecturers mark your attendance to be sick-absent.
 
-?> There is a procedure to properly hand over your MC. [More details here.](/docs/advices-general?id=sick)
+?> There is a procedure to properly hand over your MC. [More details here.](/docs/sub-info?id=absent-in-class)
 
 If you do not attend classes of the subject for 4 accumulated hours, the lecturer will issue a warning letter to remind you to be in class.
 
