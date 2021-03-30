@@ -28,7 +28,7 @@ To get started, pick your approach to submit:
 1. (Faster approval, not tested) Use the student email provided by Polytechnic.
 2. (Requires to wait around 1 month) Get a letter of Student Enrollment Confirmation from HEP and make sure the letter is in English, and hardcopy.
 
-Then go to [https://education.github.com/discount_requests/student_application] and fill up all the necessary information. [GitHub has also provide a guide to help you submit it.](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/apply-for-a-student-developer-pack)
+Then go to https://education.github.com/discount_requests/student_application and fill up all the necessary information. [GitHub has also provide a guide to help you submit it.](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/apply-for-a-student-developer-pack)
 
 After that, wait for GitHub to send you email that you've been approved for the pack. It usually takes around a month, less if you use educational emails.
 
@@ -40,7 +40,7 @@ Jetbrains has one of the best IDEs for every programming languages. We even ment
 
 They're known for good and fast autocomplete statements, superior refactoring and better code insights.
 
-To apply, just head to [https://www.jetbrains.com/shop/eform/students] and fill up the necessary form.
+To apply, just head to https://www.jetbrains.com/shop/eform/students and fill up the necessary form.
 
 ?> If you got your Github Student Pack approved, you can apply with GitHub and the pack will be ready for you!
 
