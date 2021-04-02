@@ -14,5 +14,6 @@ Here are some tips that will help you while surviving in this campus. Maybe help
 - If you are the group leader, expect them to hand in late. A workaround is to remind them or tell them "I'd like to have this in X days".
 - If you are the group member, voice out your thoughts/concerns/issues to contribute to the group. Remember: No one knows until you voice out!
 - It is discouraged to sit 1-on-1 with guys and girl. But if it's in groups, it's fine.
+- Your Academic Advisor (known as PA) will be stuck with you until you graduate.
 
-
+?> Think PA as your friend. If you have any doubts, you can ask them politely.

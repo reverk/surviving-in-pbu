@@ -27,3 +27,16 @@
 - If you're in hostel, wearing short pants is okay. As long you don't wear it in front of wardens.
 
 !> Jeans, tight, or translucent (partially transparent) clothings are not allowed, regardless of in or outside of learning hours.
+
+## Dress Code Examples
+
+Here are a number of examples of attire provided by HEP.
+
+### Orientation Day (1st Week) and Monday Attire
+
+![orientation day attire - boy](../assets/dress-code-boy-init.png)
+![orientation day attire - girl](../assets/dress-code-girl-init.png)
+
+### Regular Class Hours
+
+![class hours attire](../assets/dress-code-examples.png)
