@@ -23,23 +23,27 @@ Other softwares will be listed per-subject basis. If you want a quick summary, [
 
 ### Minimum
 
-| Component | Capacity/Amount                                                                            |
-| --------- | ------------------------------------------------------------------------------------------ |
-| CPU       | <ul><li>Any Intel Chip - i3 or higher</li><li>Any Ryzen Chip - Ryzen 3 or higher</li></ul> |
-| GPU       | Integrated                                                                                 |
-| RAM       | 8 GB                                                                                       |
-| Storage   | SSD of at least 256 GB, but HDD is fine if you're patient.                                 |
-| Screen    | 720p screen is doable.                                                                     |
+| Component        | Capacity/Amount                                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------ |
+| CPU              | <ul><li>Any Intel Chip - i3 or higher</li><li>Any Ryzen Chip - Ryzen 3 or higher</li></ul> |
+| GPU              | Integrated                                                                                 |
+| RAM              | 8 GB                                                                                       |
+| Storage          | SSD of at least 256 GB, but HDD is fine if you're patient.                                 |
+| Screen           | 720p screen is doable.                                                                     |
+| Operating System | Windows 10                                                                                 |
 
 ### Recommended
 
-| Component | Capacity/Amount                                                                                                                                |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| CPU       | <ul><li>Any Intel Chip - i5 or higher</li><li>Any Ryzen Chip - Ryzen 5 or higher</li></ul>                                                     |
-| GPU       | <ul><li>Desktop - Any GTX 900 or 1000 series is fine.</li><li>Laptop - MX 130 or Vega 3 or higher.</li></ul> But any dedicated cards are okay. |
-| RAM       | 16 GB                                                                                                                                          |
-| Storage   | SSD of at least 256 GB or higher                                                                                                               |
-| Screen    | 1080p screen                                                                                                                                   |
+| Component        | Capacity/Amount                                                                                                                                |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| CPU              | <ul><li>Any Intel Chip - i5 or higher</li><li>Any Ryzen Chip - Ryzen 5 or higher</li></ul>                                                     |
+| GPU              | <ul><li>Desktop - Any GTX 900 or 1000 series is fine.</li><li>Laptop - MX 130 or Vega 3 or higher.</li></ul> But any dedicated cards are okay. |
+| RAM              | 16 GB                                                                                                                                          |
+| Storage          | SSD of at least 256 GB or higher                                                                                                               |
+| Screen           | 1080p screen                                                                                                                                   |
+| Operating System | Windows 10                                                                                                                                     |
+
+?> While it's okay to use MacOS or Linux, generally lecturers use Windows 10 to teach you how to install and interact with code. If you pick this path, you're on your own. <br><br> MacOS users: Apple has offered a way to do use Windows 10 using Boot Camp on Intel chips. [More info here](https://support.apple.com/boot-camp).
 
 ## Websites
 

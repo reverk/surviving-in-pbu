@@ -66,6 +66,14 @@ docsify s
 5. Open chrome and type `localhost:3000` to go the site!
 6. If you want any changes: You can use your favorite editor and edit the page you desired. Then make a pull request!
 
+## Contributors
+
+- <span title="Developer">👨‍💻</span> [@reverk](https://github.com/reverk)
+- <span title="Reviewer">📝</span> [@kungcc1109](https://github.com/kungcc1109)
+- <span title="Reviewer">📝</span> Our PA, En. Kamal
+- <span title="Reviewer">📝</span> [@BanChoon](https://github.com/BanChoon)
+- <span title="Reviewer">📝</span> Jia Qi
+
 ## License 📜
 
 MIT
